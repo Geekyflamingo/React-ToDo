@@ -1,1 +1,1 @@
-Small Timer App in React. 
+A todo app. 
